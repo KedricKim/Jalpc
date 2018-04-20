@@ -5,14 +5,14 @@
 #  i18n: jalpc
   gh_user: KedricKim
   repo: iotstudy
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/spring.png
   desc: This project is my project.
 
 - name: Feedback
 #  i18n: cpython
   gh_user: Prekallen
   repo: Team_Project
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/spring.png
   desc: This project is team project from academy
 
 #- name: Google
