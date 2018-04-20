@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "post test"
+date:   2018-04-20
+desc: "just post for test"
+keywords: "first post,ked"
+categories: [Life]
+tags: [Kedric]
+icon: icon-html
+---
+
+```
+Hello world !
+```
+
+---
