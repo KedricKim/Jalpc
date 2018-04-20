@@ -4,10 +4,10 @@
     detail: JLAB
     i18n: company_a
   desc:
-    detail: I'm working at JLAB now
+    detail: Now I'm in JLAB and develop UI/UX with java, php
     i18n: company_a_desc
   date:
-    detail: Since Mar. 2018
+    detail: Mar. 2018
     i18n: company_a_date
   job:
     detail: UI/UX Developer
