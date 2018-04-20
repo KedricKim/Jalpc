@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Java, JavaScript, Php, Jquery, linux, Intellij
-percentage: 60, 70, 60, 40, 40, 60, 60
+aspects: GitHub, Java, JavaScript, Php, Jquery, linux, Intellij, Html/CSS ,MySQL
+percentage: 60, 80, 70, 40, 70, 60, 70, 60, 80
